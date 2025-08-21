@@ -22,7 +22,7 @@
 
 .contatoCampo-checkbox:checked + .contatoCampo-label:before {
   content: 'x';
-  color: #6c1cee;
+  color: #f674d8;
   background-image: radial-gradient(circle, #2DA4E7, #2F80ED);
 }
 
@@ -75,7 +75,7 @@
   margin-top: 4px;
   font-size: .9em;
   font-weight: bold;
-  color: #FD1242;
+  color: #e987be;
   display: inline-block;
 }
 
@@ -86,8 +86,8 @@
 }
 
 .contatoCampo .contatoCampo--validouErro {
-  border: 2px solid #FF0000;
-  background-color: #fff;
+  border: 2px solid #430443;
+  background-color: #8a07aa;
   position: relative;
 }
 
