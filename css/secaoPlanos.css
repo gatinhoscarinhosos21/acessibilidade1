@@ -1,16 +1,16 @@
 
 .secaoPlanos {
   text-align: center;
-  background-color: #F7F4F4;
+  background-color: #00f331;
 }
 
 .secaoPlanos-plano {
   border-radius: 5px;
-  background-color: #fff;
+  background-color: #eaf208;
   width: 80%;
   margin: 0 .5em 2em .5em;
   padding-bottom: 2em;
-  box-shadow: 0 2px 9px #ddd;
+  box-shadow: 0 2px 9px #fc0ab3;
   max-width: 300px;
   display: inline-block;
 
@@ -81,7 +81,7 @@
 
 .secaoPlanos-plano-btn:hover,
 .secaoPlanos-plano-btn:focus {
-  color: #fff;
+  color: #138dc6;
 }
 
 .secaoPlanos-plano:nth-of-type(1) .secaoPlanos-plano-btn:hover,

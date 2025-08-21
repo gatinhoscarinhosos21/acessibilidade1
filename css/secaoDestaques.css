@@ -20,10 +20,10 @@
 
 .secaoDestaques-link:hover,
 .secaoDestaques-link:focus {
-  background-color: #e00673;
+  background-color: #ff00bb;
   cursor: pointer;
   border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(1, 82, 243, 0.3); 
+  box-shadow: 0 2px 5px rgba(0, 85, 255, 0.885); 
   outline: 0;
 }
 
