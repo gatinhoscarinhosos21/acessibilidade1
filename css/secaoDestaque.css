@@ -41,7 +41,7 @@
 .secaoDestaque-cta:hover,
 .secaoDestaque-cta:focus {
   background: #1b0ba3;
-  color: #333;
+  color: #3bf557;
 }
 
 @media (min-width: 830px) {
