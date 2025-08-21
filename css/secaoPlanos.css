@@ -25,7 +25,7 @@
 }
 
 .secaoPlanos-plano--mega {
-  color: #E33B3B;
+  color: #b907ff;
 }
 
 .secaoPlanos-plano-titulo {
@@ -35,7 +35,7 @@
   width: 100%;
   padding: .4em 1em;
   font-size: 1.5em;
-  border-bottom: 1px solid #DFE3E5;
+  border-bottom: 1px solid #3c0eba;
   margin-bottom: .5em;
 }
 
@@ -96,11 +96,11 @@
 
 .secaoPlanos-plano:nth-of-type(3) .secaoPlanos-plano-btn:hover,
 .secaoPlanos-plano:nth-of-type(3) .secaoPlanos-plano-btn:focus {
-  background-color: #E33B3B;
+  background-color: #9912c2;
 }
 
 .secaoPlanos-plano-titulo--destaque {
-  background-color: #B72E2E;
+  background-color: #731177;
 }
 
 
